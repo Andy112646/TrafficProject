@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HttpServlet_Ajax_AreaCascade:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HttpServlet_Ajax_AreaCascade_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HttpServlet_Ajax_AreaCascade/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HttpServlet_Ajax_AreaCascade" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="arpack_combined_all-0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/arpack_combined_all-0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/arrow-format-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

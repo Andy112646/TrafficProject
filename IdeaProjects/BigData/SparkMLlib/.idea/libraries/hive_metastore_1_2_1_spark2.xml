@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="hive-metastore-1.2.1.spark2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hive-metastore-1.2.1.spark2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hk2-api-2.4.0-b34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hk2-locator-2.4.0-b34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hk2-utils-2.4.0-b34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hppc-0.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htrace-core-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

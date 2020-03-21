@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Ajax/HttpServlet_Ajax.iml" filepath="$PROJECT_DIR$/HttpServlet_Ajax/HttpServlet_Ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Ajax_AreaCascade/HttpServlet_Ajax_AreaCascade.iml" filepath="$PROJECT_DIR$/HttpServlet_Ajax_AreaCascade/HttpServlet_Ajax_AreaCascade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Ajax_DropDownBox/HttpServlet_Ajax_DropDownBox.iml" filepath="$PROJECT_DIR$/HttpServlet_Ajax_DropDownBox/HttpServlet_Ajax_DropDownBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_BaseServlet/HttpServlet_BaseServlet.iml" filepath="$PROJECT_DIR$/HttpServlet_BaseServlet/HttpServlet_BaseServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Charset/HttpServlet_Charset.iml" filepath="$PROJECT_DIR$/HttpServlet_Charset/HttpServlet_Charset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Cookie/HttpServlet_Cookie.iml" filepath="$PROJECT_DIR$/HttpServlet_Cookie/HttpServlet_Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Cookie_Login/HttpServlet_Cookie_Login.iml" filepath="$PROJECT_DIR$/HttpServlet_Cookie_Login/HttpServlet_Cookie_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Dispatcher/HttpServlet_Dispatcher.iml" filepath="$PROJECT_DIR$/HttpServlet_Dispatcher/HttpServlet_Dispatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_EL/HttpServlet_EL.iml" filepath="$PROJECT_DIR$/HttpServlet_EL/HttpServlet_EL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Filter/HttpServlet_Filter.iml" filepath="$PROJECT_DIR$/HttpServlet_Filter/HttpServlet_Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Filter_LoginAndCharset/HttpServlet_Filter_LoginAndCharset.iml" filepath="$PROJECT_DIR$/HttpServlet_Filter_LoginAndCharset/HttpServlet_Filter_LoginAndCharset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_HRSystem/HttpServlet_HRSystem.iml" filepath="$PROJECT_DIR$/HttpServlet_HRSystem/HttpServlet_HRSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_HelloJSP/HttpServlet_HelloJSP.iml" filepath="$PROJECT_DIR$/HttpServlet_HelloJSP/HttpServlet_HelloJSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Listener/HttpServlet_Listener.iml" filepath="$PROJECT_DIR$/HttpServlet_Listener/HttpServlet_Listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Login/HttpServlet_Login.iml" filepath="$PROJECT_DIR$/HttpServlet_Login/HttpServlet_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Redirect/HttpServlet_Redirect.iml" filepath="$PROJECT_DIR$/HttpServlet_Redirect/HttpServlet_Redirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Request/HttpServlet_Request.iml" filepath="$PROJECT_DIR$/HttpServlet_Request/HttpServlet_Request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Response/HttpServlet_Response.iml" filepath="$PROJECT_DIR$/HttpServlet_Response/HttpServlet_Response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Scope/HttpServlet_Scope.iml" filepath="$PROJECT_DIR$/HttpServlet_Scope/HttpServlet_Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Scope_Login/HttpServlet_Scope_Login.iml" filepath="$PROJECT_DIR$/HttpServlet_Scope_Login/HttpServlet_Scope_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_ServletConfig/HttpServlet_ServletConfig.iml" filepath="$PROJECT_DIR$/HttpServlet_ServletConfig/HttpServlet_ServletConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_ServletContext/HttpServlet_ServletContext.iml" filepath="$PROJECT_DIR$/HttpServlet_ServletContext/HttpServlet_ServletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServlet_Session/HttpServlet_Session.iml" filepath="$PROJECT_DIR$/HttpServlet_Session/HttpServlet_Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OA_System/OA_System.iml" filepath="$PROJECT_DIR$/OA_System/OA_System.iml" />
+    </modules>
+  </component>
+</project>

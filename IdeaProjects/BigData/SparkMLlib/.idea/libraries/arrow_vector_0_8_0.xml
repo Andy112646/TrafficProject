@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="arrow-vector-0.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/arrow-vector-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/arrow-vector-0.8.0.jar!/codegen/templates" />
+    </SOURCES>
+  </library>
+</component>

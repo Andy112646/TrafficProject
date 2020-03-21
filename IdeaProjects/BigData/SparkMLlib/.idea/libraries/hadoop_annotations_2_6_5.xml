@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="hadoop-annotations-2.6.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-annotations-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-auth-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-common-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-hdfs-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-mapreduce-client-app-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-mapreduce-client-common-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-mapreduce-client-core-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-mapreduce-client-jobclient-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-mapreduce-client-shuffle-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-yarn-api-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-yarn-client-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-yarn-common-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-yarn-server-common-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-yarn-server-web-proxy-2.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive-beeline-1.2.1.spark2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive-cli-1.2.1.spark2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive-exec-1.2.1.spark2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive-jdbc-1.2.1.spark2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

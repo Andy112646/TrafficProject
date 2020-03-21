@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="antlr4-runtime-4.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/antlr4-runtime-4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-runtime-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-repackaged-2.4.0-b34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-extras-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apacheds-i18n-2.0.0-M15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apacheds-kerberos-codec-2.0.0-M15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api-asn1-api-1.0.0-M20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api-util-1.0.0-M20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
